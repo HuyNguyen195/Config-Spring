@@ -1,0 +1,4 @@
+com\fsoft\config\RootConfig.class
+com\fsoft\config\WebConfig.class
+com\fsoft\controller\HelloController.class
+com\fsoft\config\AppConfig.class

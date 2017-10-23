@@ -1,0 +1,7 @@
+com\fsoft\config\RootConfig.class
+com\fsoft\config\WebConfig.class
+com\fsoft\controller\HelloController.class
+com\fsoft\config\HibernateConfig.class
+com\fsoft\persistence\Staff.class
+com\fsoft\config\AppConfig.class
+com\fsoft\persistence\Company.class
